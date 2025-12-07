@@ -10,5 +10,10 @@ html,body{
 main,
 section{
     height: 100%;
-    width
+    width: 100%;
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
